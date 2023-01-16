@@ -5,6 +5,7 @@ import java.util.Arrays;
 
 // 다차원배열 랜덤 인덱스:
 // 몫 연산자 : 한단계 아래 차원 정하는거... 계속 몫연산자로 하다가 마지막에 나머지 연산자 한번 하면됨
+// 다차원배열에 랜덤하게 인덱싱하고, 랜덤한수를 넣기
 public class MultidimensionalArrayByTest {
     public static void main(String[] args) {
 
